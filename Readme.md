@@ -1,4 +1,4 @@
-## Fluxo-Caixa-Predictive-Python - Projeto de Previsão do Fluxo de Caixa
+## Fluxo-Caixa-Predictive-Python - Projeto de Previsão do Fluxo de Caixa 🚀 🔄 🌐
 
 Codificação em Python para desenvolvimento de proejeto completo de Data Science para Previsão de Lucro de Fluxo de Caixa dos próximos 6 meses baseado de acordo com dados do Dataframe. Esse projeto utiliza técnicas avançadas de aprendizado de máquina para prever o fluxo de caixa de uma empresa 
 com base em dados históricos. 
