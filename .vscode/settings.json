@@ -1,0 +1,9 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "python.analysis.extraPaths": [
+        "./scripts",
+        "./src/data",
+        "./src/features",
+        "./visualization"
+    ]
+}
