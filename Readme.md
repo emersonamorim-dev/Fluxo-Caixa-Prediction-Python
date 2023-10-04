@@ -71,7 +71,7 @@ Execute o script principal:
 python main.py
 ```
 
-Ou execulte em pipeline o script secundário:
+Ou execute o pipeline do script secundário:
 
 ```
 python main_pipeline.py
